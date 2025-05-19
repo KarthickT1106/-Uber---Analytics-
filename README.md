@@ -1,7 +1,6 @@
 # -Uber Analytics-
  🚕 Uber Rides Data Analysis with Power BI 📊
 
-
 ## 📌 Objective
 
 The primary objective of this Power BI project is to develop a comprehensive dashboard that provides insights into Uber/Ola Taxi ride data.  
@@ -133,6 +132,15 @@ With your data model and DAX measures ready, it’s time to create the visualiza
 - **🎛️ Slicers**:  Dynamic filtering by date, shift, and location.
 
 Additionally, use field parameters to allow dynamic changes to the visuals based on user selection.
+
+---
+
+## 📷 Project Snapshots
+
+![Screenshot 2025-05-19 173721](https://github.com/user-attachments/assets/22afc67a-6273-43ed-877e-02c954fbad64)
+
+
+---
 
 ## 🔚 conclusion
 
